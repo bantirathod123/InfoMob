@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "500899905042",
+    "firebase_url": "https://infomob-1b930-default-rtdb.firebaseio.com",
+    "project_id": "infomob-1b930",
+    "storage_bucket": "infomob-1b930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500899905042:android:8d462e737f42d2134ae2cb",
+        "android_client_info": {
+          "package_name": "com.charyatani.infomob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnF43agAU5ctbbpERUNoSsHp5UApgdeuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
